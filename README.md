@@ -15,6 +15,15 @@ Open source XPRIZE carbon removal entry
 - [Arduino Uno](https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/)
 - [Basic Electronics Kit](https://www.amazon.com/ZYAMY-Electronics-Components-Breadboard-Potentiometer/dp/B07DW1LVFQ/)
 
-# Fittings
+#### Fittings
 - [Gorilla Glue](https://www.amazon.com/Gorilla-Super-Glue-gram-Clear/dp/B082XGL21J)
 - [Plumbing tape](https://www.amazon.com/Dixon-Valve-TTB75-Industrial-Temperature/dp/B003D7K8E0/)
+
+## Removal rate
+Dry weight of algae generally ranges between 90-250mg of dry weight per liter. [[1](http://www.fao.org/3/W3732E/w3732e06.htm)]
+
+Based on this it's estimated that it would take 200x200x1m of algae growing volume to remove the 1000 tonnes of carbon per year required by the XPRIZE.
+
+
+## Reference
+- [Algae growing information](http://www.fao.org/3/W3732E/w3732e06.htm)
